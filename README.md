@@ -9,6 +9,7 @@
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=orchiddell0&theme=xcode" />
 </div>
+
 [![orchid's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=orchiddell0&theme=xcode)](https://github.com/orchiddell0)
 
 
