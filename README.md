@@ -9,7 +9,8 @@
 
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/orchiddell0/count.svg)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=orchiddell0&theme=dracula)
+
 
 
 
