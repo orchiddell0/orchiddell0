@@ -6,6 +6,10 @@
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 
+<div align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=orchiddell0&theme=xcode" />
+</div>
+[![orchid's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=orchiddell0&theme=xcode)](https://github.com/orchiddell0)
 
 
 
