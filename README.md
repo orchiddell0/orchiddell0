@@ -9,10 +9,6 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=orchiddell0&theme=transparent&hide_border=true" />
 <br/>
 
-
-[![modern cpp cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-
-
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=orchiddell0&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
