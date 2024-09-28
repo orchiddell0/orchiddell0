@@ -1,7 +1,6 @@
 [![MasterHead](https://github.com/orchiddell0/orchiddell0/blob/main/img/F21D24F44B5BD2223DFF115886DD7029.jpg)](https://github.com/orchiddell0)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+profile+page!)](https://git.io/typing-svg)
 
 
 <div id="title" align=center>
