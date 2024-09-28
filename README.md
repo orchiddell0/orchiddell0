@@ -9,7 +9,7 @@
 </div>
 
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=orchiddell0&theme=dracula)
+[!](https://github-readme-activity-graph.cyclic.app/graph?username=orchiddell0&theme=dracula)
 
 
 
