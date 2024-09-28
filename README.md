@@ -1,10 +1,9 @@
 [![MasterHead](https://github.com/orchiddell0/orchiddell0/blob/main/img/F21D24F44B5BD2223DFF115886DD7029.jpg)](https://github.com/orchiddell0)
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to +my+Github+profile+page!)](https://git.io/typing-svg)
 
 <div id="title" align=center>
 
-  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=orchiddell0&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
@@ -19,6 +18,7 @@
 
 
 ![image](https://github.com/orchiddell0/orchiddell0/blob/main/img/B649782A616A77F611D3ED240FAA6650.jpg)
+
 
 
 
