@@ -22,6 +22,10 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=orchiddell0&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Orchid&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orchiddell0&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
 
 ![image](https://github.com/orchiddell0/orchiddell0/blob/main/img/B649782A616A77F611D3ED240FAA6650.jpg)
