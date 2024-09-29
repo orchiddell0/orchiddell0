@@ -1,4 +1,4 @@
-![header](https://github.com/orchiddell0/orchiddell0/blob/main/img/%E5%BA%8F%E5%88%97%2001_2%20(2).gif)
+![header](https://github.com/orchiddell0/orchiddell0/blob/main/img/%E5%BA%8F%E5%88%97%2001_2%20(2)%20(1).gif)
 
 
 [![MasterHead](https://github.com/orchiddell0/orchiddell0/blob/main/img/haisi.png)](https://ak.hypergryph.com/)
@@ -19,7 +19,7 @@
 <br/>
 
 
-![image](https://github.com/orchiddell0/orchiddell0/blob/main/img/B649782A616A77F611D3ED240FAA6650.jpg)
+![image](https://github.com/orchiddell0/orchiddell0/blob/main/img/haisi.png)
 
 
 
