@@ -1,7 +1,7 @@
 ![header](https://github.com/orchiddell0/orchiddell0/blob/main/img/%E5%BA%8F%E5%88%97%2001_2%20(2)%20(1).gif)
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;Night+Helianthus!;Orchid" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;Orchid" />
 </p>
 
 
